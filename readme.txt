@@ -31,8 +31,9 @@ A reseponse from server to browser with the HTTP protocol
 
 What is an HTTP header? Give a couple examples of request and response headers you have seen.
 
-Headers give extra info about a request or response
-
+    Headers give extra info about a request or response
+    Request headers: cookie,content-type,connection
+    Response headers: refresh,link,content-type
 
 
 What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
